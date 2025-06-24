@@ -28,9 +28,9 @@
      
 
 - 6) Network Settings:
-    Allow SSH (port 22)
-    Allow Custom TCP on port 9200  (For Running OpenSearch)
-    Allow Custom TCP on port 5601  (For Dashboards)
+    i) Allow SSH (port 22)
+    ii) Allow Custom TCP on port 9200  (For Running OpenSearch)
+    ii) Allow Custom TCP on port 5601  (For Dashboards)
 
 ![Screenshot from 2025-06-24 15-19-22](https://github.com/user-attachments/assets/b74ad84b-4d78-4e6b-bcac-f8ba6e10da46)
 
