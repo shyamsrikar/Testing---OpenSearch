@@ -191,6 +191,9 @@ curl -X POST "http://localhost:9200/test-index/_doc/1" \
 
 ```
 
+![Screenshot from 2025-06-24 15-39-31](https://github.com/user-attachments/assets/98d9edb7-7c53-4b85-b884-03f0fdbbc7d0)
+
+
 ### ✅ Step 2: Retrieve the Document by ID
 
 ```
@@ -198,7 +201,8 @@ curl -X GET "http://localhost:9200/test-index/_doc/1" \
   -u admin:Shyam@184239!
 
 ```
-![Screenshot from 2025-06-24 15-39-31](https://github.com/user-attachments/assets/b892b626-f320-4800-9641-a93b6021a56f)
+
+![Screenshot from 2025-06-24 15-40-07](https://github.com/user-attachments/assets/398151ee-bed0-4dab-b968-f5c6ac1983c3)
 
 
 - Expected output:
