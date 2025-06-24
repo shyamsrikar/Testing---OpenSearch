@@ -163,7 +163,6 @@ curl -u admin:Shyam@184239! http://localhost:9200
 }
 ```
 
-![Screenshot from 2025-06-24 15-31-24](https://github.com/user-attachments/assets/a519ae6f-c4ea-4c79-968f-f57d7b295242)
 
 
 # Optional
