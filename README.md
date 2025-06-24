@@ -202,9 +202,6 @@ curl -X GET "http://localhost:9200/test-index/_doc/1" \
 
 ```
 
-![Screenshot from 2025-06-24 15-40-07](https://github.com/user-attachments/assets/398151ee-bed0-4dab-b968-f5c6ac1983c3)
-
-
 - Expected output:
 
 ```
