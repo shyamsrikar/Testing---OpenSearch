@@ -76,7 +76,6 @@ sudo systemctl enable docker
 sudo systemctl start docker
 
 ```
-![Screenshot from 2025-06-24 15-22-56](https://github.com/user-attachments/assets/e430d035-1517-4e0a-96e2-7e4372390f6e)
 
 
 ### ✅ Step 3: Create Project Folder
