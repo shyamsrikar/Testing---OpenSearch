@@ -34,7 +34,7 @@
 
 ![Screenshot from 2025-06-24 15-19-22](https://github.com/user-attachments/assets/b74ad84b-4d78-4e6b-bcac-f8ba6e10da46)
 
-- 7) Choose volume.
+- 7) Choose volume atleast 20GB.
  
 ![Screenshot from 2025-06-24 15-19-55](https://github.com/user-attachments/assets/97095ee6-2753-4491-b4b4-5f1e38a032c6)
 
